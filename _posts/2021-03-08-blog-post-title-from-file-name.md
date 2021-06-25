@@ -1,32 +1,7 @@
-## Blog Post Title From First Header
+## Rage of immortals: The caretakers by Kanika Singhal
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+Hey, my bookstagram family!  Do you guys love fantasy books? Comment your favourite fantasy movie or books you like. If you ask me, fantasy books always fantasies me. It helps me to escape from the reality and feel the magical world. So, last month I picked this fantasy book, RAGE OF THE IMMORTALS written by KANIKA SINGHAL which wavers around  Kara Sefina, who was assigned under an agreement as a deputy bodyguard of the Caretaker of Underworld Cipher. Due to this pact, she has to accept the new underworld life and she felt miserable about being away from her family. Gradually she fell in love with her chief and she didn't realize how complicated it would be. And then the plot followed with more twists and turns. 
 
-If the file does not start with a header, then the post title will be derived from the filename.
+There is a rollercoaster emotion dwelled in the middle piece of the plot. The author beautifully depicted different types of feelings and sentiments felt by the protagonists. The book is long, and some dialogues are a bit lengthy to me. The detailing of minor things could have been avoided. The creativity about the universe and new world stuff are compellingly admirable.  The book is fascinating and clenching my mind throughout the end. The primary characters are portrayed well. 
 
-This is a sample blog post. You can talk about all sorts of fun things here.
-
----
-
-### This is a header
-
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
+The language is lucid and clear. The writing style is great and it is engaging. The different vocabularies made me immersed into the book. Only thing that irked me is the piling details and facts which was hard for me make a connection. There were places where author could have been more brief. I should appreciate author for her imaginativeness and creativeness. No doubt, this book will definitely leave you with an impression. I would recommend this to fantasy book readers.
