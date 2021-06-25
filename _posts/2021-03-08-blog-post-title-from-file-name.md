@@ -1,5 +1,7 @@
 ## Rage of immortals: The caretakers by Kanika Singhal
 
+<img src="https://www.instagram.com/p/CQjLmNqFsNe/">
+
 Hey, my bookstagram family!  Do you guys love fantasy books? Comment your favourite fantasy movie or books you like. If you ask me, fantasy books always fantasies me. It helps me to escape from the reality and feel the magical world. So, last month I picked this fantasy book, RAGE OF THE IMMORTALS written by KANIKA SINGHAL which wavers around  Kara Sefina, who was assigned under an agreement as a deputy bodyguard of the Caretaker of Underworld Cipher. Due to this pact, she has to accept the new underworld life and she felt miserable about being away from her family. Gradually she fell in love with her chief and she didn't realize how complicated it would be. And then the plot followed with more twists and turns. 
 
 There is a rollercoaster emotion dwelled in the middle piece of the plot. The author beautifully depicted different types of feelings and sentiments felt by the protagonists. The book is long, and some dialogues are a bit lengthy to me. The detailing of minor things could have been avoided. The creativity about the universe and new world stuff are compellingly admirable.  The book is fascinating and clenching my mind throughout the end. The primary characters are portrayed well. 
