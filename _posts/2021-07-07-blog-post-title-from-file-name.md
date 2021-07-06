@@ -1,6 +1,6 @@
-<h2>Cognitive Fitness: Pain Is Inevitable. How to Alleviate It and Use It to Your Advantage.
+## Cognitive Fitness: Pain Is Inevitable. How to Alleviate It and Use It to Your Advantage by Anil Rajput
 
-Written by Anil Rajput </h2>
+
 
 <img src="https://i.pinimg.com/originals/3b/66/2a/3b662aa5f1410bb4a094b269f18f0595.jpg">
 
