@@ -8,6 +8,8 @@ Author:- Udayan Mukerji
 
 Hello Book fam, I'm back with a thriller book written by Author Udagam Mukerji
 
+<script type="text/javascript">amzn_assoc_ad_type ="responsive_search_widget"; amzn_assoc_tracking_id ="thatchayanira-21"; amzn_assoc_marketplace ="amazon"; amzn_assoc_region ="IN"; amzn_assoc_placement =""; amzn_assoc_search_type = "search_widget";amzn_assoc_width ="auto"; amzn_assoc_height ="auto"; amzn_assoc_default_search_category ="Books"; amzn_assoc_default_search_key ="Back ender book";amzn_assoc_theme ="light"; amzn_assoc_bg_color ="FFFFFF"; </script><script src="//z-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&Marketplace=IN"></script>
+
 Blurb:-
 
 Pinto is a middle level officer in the Internal Security Agency, or ISA who discovers, through a series of episodic experiences that the template for catching spies is not the gun toting flamboyance of James Bond. Nor, for that matter, is it the dull grey world of Smiley’s People. Much of it is patient pursuit and back end planning lit by the occasional flash of brilliance. Yet, even if there are no adrenaline spikes and meetings in the shadows of the gloaming; Pinto enjoys his job with the all the mental challenges and the perseverance it requires. Like in any other government department, Pinto too has to deal with failing room coolers, an aging car and the quirks of officialdom; but there is a professional core in the organization that, with good humour, sensitivity and patience, is able to carry the day. The book also has side stories that, though occasionally anecdotal, paint Pinto’s life in vibrant colours.
