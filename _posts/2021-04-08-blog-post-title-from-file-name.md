@@ -1,8 +1,10 @@
 ## Positive economics Vs Normative economics
 
+<img src= 'https://i1.wp.com/www.ped30.com/wp-content/uploads/2019/01/The-Simpsons-s11e09-Grift-of-the-Magi.gif?fit=842%2C402&ssl=1'>
+
 Economists often distinguish between positive economics and normative economics. 
 
-  ·    POSITIVE ECONOMICS Vs
+·POSITIVE ECONOMICS Vs
 
 NORMATIVE ECONOMICS:-
 
