@@ -1,4 +1,4 @@
-## The Black Rose Collection by Justin Wamsleu
+## The Black Rose Collection by Justin Wamsley
 
 <a href="https://www.amazon.in/Black-Rose-Collection-Justin-Wamsley-ebook/dp/B09583GJRK?ie=UTF8&linkCode=li2&tag=thatchayanira-21&linkId=95626d5e53a67c9e665c1b18c64fc2ed&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09583GJRK&Format=_SL160_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=thatchayanira-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=thatchayanira-21&language=en_IN&l=li2&o=31&a=B09583GJRK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
