@@ -1,0 +1,9 @@
+## The Black Rose Collection by Justin Wamsleu
+
+<a href="https://www.amazon.in/Black-Rose-Collection-Justin-Wamsley-ebook/dp/B09583GJRK?ie=UTF8&linkCode=li2&tag=thatchayanira-21&linkId=95626d5e53a67c9e665c1b18c64fc2ed&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09583GJRK&Format=_SL160_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=thatchayanira-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=thatchayanira-21&language=en_IN&l=li2&o=31&a=B09583GJRK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+Filled with effective storyline, The Black rose collection is a collection of compelling short stories and poems concerning human consciousness and perception. All the protagonists are haunted by financial woes, mental breakdown, dark secrets and love affairs. It consists of four sections out of which last section is a poetry collection. The first three section focuses on the theme betrayal, redistribution, and redemption.
+
+With intriguing narration, all the stories except the last one met with a sad ending. Each piece is a perfectly sewed pearls highlighting a common theme. All story emphasises the fact that the society as a whole is responsible for people's perceptions and behaviour. The author made the point clear that nobody's born criminal or bad person, it's bad side of the society that turns a pure soul to a monster. Also, with good care and right guidance, the society can rectify its mistake and afterall we're all humans. And the way they see the world can definitely be changed.
+
+Throughout the end, storyline and narration kept me hooked. I never felt like bored and skipped lines. Trust me this kinda feel is rare. I'm genuinely impressed with the author's work. It is short, crisp and up to the point. It deserves more appreciation. Kudos to the author.
