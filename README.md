@@ -1,3 +1,3 @@
-#Hello
+#Hello!
 
-check out my blog at <a href="https://www.legitreview.in"> legitreview.in </a>
+check out my blog at <a href="https://legitreview.in/"> legitreview.in </a>
