@@ -1,6 +1,6 @@
 ## Dès Vu by Swapna Sanchita
 
-<img rc= "https://i.pinimg.com/736x/45/16/2a/45162af6f85f16c1e98fd9501e2448f4.jpg">
+<img src= "https://i.pinimg.com/736x/45/16/2a/45162af6f85f16c1e98fd9501e2448f4.jpg">
 
 Book: Dès Vu
 
