@@ -20,6 +20,6 @@ Everyone must have heard the word déjà vu, a feeling that one has experienced 
 
 Des Vu by Swapna Sanchita is a resonating collection of  42 poems. The opening few pages takes us to scenario of a poet's "unravelling of complexities" in writing poems. Gradually, the poem's phrase shifts to other insightful emotions and feelings. 
 
-My favourite poem is "The Weight Of Me". It is a ballad with a  rhythm ABAB ABAB. This poem  felt more relatable to me.(The " me" is a procrastinator like me^_^) It gave a clear vivid mental picture. It will not take much time to finish the whole collection. But It's up to you. If you feel contented, stop reading. Give enough breaks to let your mind unplug those thoughts.
+My favourite poem is "The Weight Of Me". It is a ballad with a  rhyme ABAB ABAB. This poem  felt more relatable to me.(The " me" is a procrastinator like me^_^) It gave a clear vivid mental picture. It will not take much time to finish the whole collection. But It's up to you. If you feel contented, stop reading. Give enough breaks to let your mind unplug those thoughts.
 
-Although, the choice of words wasn't completely satisfying. You may not grasp the poem's dept meaning reading at once. So, it's advisable for readers to not speed up the pace, give it a slow read.
+Although, the choice of words wasn't completely satisfying. You may not grasp the poem's depth meaning reading at once. So, it's advisable for readers to not speed up the pace, give it a slow read.
