@@ -4,10 +4,10 @@
 
 Economists often distinguish between positive economics and normative economics. 
 
-·POSITIVE ECONOMICS Vs
+<b> <fontcolor='red'>·POSITIVE ECONOMICS Vs
 
 NORMATIVE ECONOMICS:-
-
+</font> <b/>
 Positive Economics refers to how the way of things are.
 
 Normative Economics refers to how the way of things should be.
