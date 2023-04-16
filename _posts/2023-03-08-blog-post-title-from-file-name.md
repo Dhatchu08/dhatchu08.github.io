@@ -26,8 +26,8 @@ On September 4, 2022, I registered for it. The application process was vigorous 
 <b>My Experience:</b>
 
 
+![iide](https://user-images.githubusercontent.com/67735359/232339516-0d8bda74-17f0-4028-8277-84a2d3986a9c.png)
 
-![926120852s](https://user-images.githubusercontent.com/67735359/232339414-9d798a85-af3c-4782-a09a-83396e6a8469.jpg)
 
 
 
