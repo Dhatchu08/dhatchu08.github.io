@@ -31,7 +31,7 @@ On September 4, 2022, I registered for it. The application process was vigorous 
 
 
 
-The internship started at 04:00 p.m. on September 12 which was supposed to be a "fun orientation session". Their Primary emphasis was to make us turn our videos on. We had to copy the dance steps of our VIP manager. Some refused to dance, she threatened that they wouldn't get our certificate.
+The internship started at 04:00 p.m. on September 12 which was supposed to be a "fun orientation session". Their Primary emphasis was to make us turn our videos on. We had to copy the dance steps of our VIP manager. Some refused to dance, she threatened that they wouldn't get their certificate.
 They gave several assignments with a sickening deadline. They made us write articles about their company's courses, generate leads for their Free masterclass sessions, and so on. All of these had a lot of rules to abide by. For instance, the write-up should be plagiarism-free, SEO optimized, font style, font size, word limit, etc. Their minimum word count was insanely bizarre that no one could make it. All of their targets were impractical and inconsiderate. When someone dared to question it, she would turn the table around and blame us that we were not working hard enough. Then, her immediate reaction was to blackmail us into not getting the certificate. It was going on as a loop for several days. This toxicity peaked to a point where I could not bare anymore. I realized that my mental health was more important than a preposterous internship certificate.
 I finally decided to quit it.
 
