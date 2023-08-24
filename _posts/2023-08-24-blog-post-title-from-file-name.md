@@ -1,6 +1,7 @@
 ## Hunger By Jayanta Mahapatra
 
- <img src=”images.jpg”>
+![images](https://github.com/Dhatchu08/panni/assets/67735359/78161d45-bc96-4603-af01-00b08b7a33ff)
+
 
 It was hard to believe the flesh was heavy on my back.
 The fisherman said: Will you have her, carelessly,
