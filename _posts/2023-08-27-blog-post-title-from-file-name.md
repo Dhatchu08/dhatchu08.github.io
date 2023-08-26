@@ -2,18 +2,22 @@
 
 A hypothesis is a claim or statement about a population parameter. Usually, the results of a sample are applied to generalize on an entire population(s). For example, in a class of 30 students, 12 students are sampled for their test scores. The result is that the average score is 83. This result would, however, vary with another sample. 
 
-A hypothesis can be a null hypothesis or an alternative hypothesis. A null hypothesis is a statement what the majority holds to be true. The opposite or complement of a null hypothesis is  an alternative hypothesis. Let us understand by a problem: A light bulb manufacturer claims that the average life of their light bulb is 1000 hours. A worker believes it is not 1000 hours. He tests the claim by taking a sample of 500 bulbs.
+A hypothesis can be a null hypothesis or an alternative hypothesis. A null hypothesis is a statement what the majority holds to be true. The opposite or complement of a null hypothesis is  an alternative hypothesis. Let us understand a problem: 
+
+<p>A light bulb manufacturer claims that the average life of their light bulb is 1000 hours. A worker believes it is not 1000 hours. He tests the claim by taking a sample of 500 bulbs.</p>
+
 A null hypothesis (Ho) is an accepted truth and assumes that the alternative claim is false. An alternative hypothesis(H1) is what the researcher is trying to prove. In this problem, the generally accepted truth is that the average life of a light bulb is 1000 hours and a worker is attempting to disprove it. Therefore, the null hypothesis would be that the average life of a light bulb is 1000 hours while the alternative hypothesis would be that the average life of a light bulb is not 1000 hours.
 
-Null Hypothesis  
-H0: µ = 1000
-The average life of a light bulb is 1000 hours.
+<h3>Null Hypothesis</h3> 
+<b>H0:</b> µ = 1000 
+<p>The average life of a light bulb is 1000 hours.</p>
 
-Alternative Hypothesis  
-H1: µ > 1000
-The average life of a light bulb is not 1000 hours.
+<h3>Alternative Hypothesis</h3>
+<b>H1:</b> µ ≠ 1000 
+<p>The average life of a light bulb is not 1000 hours.</p>
 
-Important Note: The null hypothesis(H0) must be written with an equality (=,≤, or ≥), and the alternative hypothesis must be written with an inequality (<, >, or ≠).
+
+<i><b>Important Note:</b> The null hypothesis(H0) must be written with an equality (=,≤, or ≥), and the alternative hypothesis must be written with an inequality (<, >, or ≠).</i>
 
 <script type="text/javascript">
 (function(d,s,id,u){
