@@ -1,4 +1,4 @@
-# Null hypothesis Vs. Alternative Hypothesis 
+# Null hypothesis Vs. Alternative hypothesis 
 
 ![Pastel UI Branding VS Marketing Comparison Table Instagram Post (1)](https://github.com/Dhatchu08/dhatchu08.github.io/assets/67735359/82ee68c0-1491-466c-8fc5-73ff5ad8ac0b)
 
