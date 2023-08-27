@@ -1,5 +1,8 @@
 # Null hypothesis Vs. Alternative Hypothesis 
 
+![Pastel UI Branding VS Marketing Comparison Table Instagram Post (1)](https://github.com/Dhatchu08/dhatchu08.github.io/assets/67735359/82ee68c0-1491-466c-8fc5-73ff5ad8ac0b)
+
+
 A hypothesis is a claim or statement about a population parameter. Usually, the results of a sample are applied to generalize on an entire population(s). For example, in a class of 30 students, 12 students are sampled for their test scores. The result is that the average score is 83. This result would, however, vary with another sample. 
 
 A hypothesis can be a null hypothesis or an alternative hypothesis. A null hypothesis is a statement what the majority holds to be true. The opposite or complement of a null hypothesis is  an alternative hypothesis. Let us understand a problem: 
