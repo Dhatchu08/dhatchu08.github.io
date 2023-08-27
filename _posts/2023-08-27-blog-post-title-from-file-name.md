@@ -7,7 +7,9 @@ A hypothesis is a claim or statement about a population parameter. Usually, the 
 
 A hypothesis can be a null hypothesis or an alternative hypothesis. A null hypothesis is a statement what the majority holds to be true. The opposite or complement of a null hypothesis is  an alternative hypothesis. Let us understand a problem: 
 
+<hr>
 <p>A light bulb manufacturer claims that the average life of their light bulb is 1000 hours. A worker believes it is not 1000 hours. He tests the claim by taking a sample of 500 bulbs.</p>
+<hr>
 
 A null hypothesis (Ho) is an accepted truth and assumes that the alternative claim is false. An alternative hypothesis(H1) is what the researcher is trying to prove. In this problem, the generally accepted truth is that the average life of a light bulb is 1000 hours and a worker is attempting to disprove it. Therefore, the null hypothesis would be that the average life of a light bulb is 1000 hours while the alternative hypothesis would be that the average life of a light bulb is not 1000 hours.
 
