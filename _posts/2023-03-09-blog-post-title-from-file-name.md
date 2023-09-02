@@ -1,10 +1,10 @@
 ## Lyrics Of Annamacharya Keerthana - Nanati Brathuku Natakamu
 
-![image](https://github.com/Dhatchu08/dhatchu08.github.io/assets/67735359/0ef52144-a84b-4464-9587-a5c9fe4e3c86)
+![1287609](https://github.com/Dhatchu08/dhatchu08.github.io/assets/67735359/6502e553-f5ff-40e2-bcac-57b9afbf7f5f)
 
 
 Keerthana : Nanati Brathuku<br>
-Ragam : Revathi
+Ragam: Revathi
 
 <b>nAnATi batuku nATakamu <br>
 kAnaka kannati kaivalyamu <br></b>
