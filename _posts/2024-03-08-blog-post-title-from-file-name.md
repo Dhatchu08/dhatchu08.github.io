@@ -4,7 +4,7 @@ This article delves into the linguistic affinities and divergences between the p
 
 ![아빠](https://github.com/Dhatchu08/dhatchu08.github.io/assets/67735359/7dc02933-214c-4466-87d3-f6ddb71eb6d5)
 
-fig.1: Similarities between Tamil (தமிழ்) and Korean (한글), the word "Appa" means Dad.
+<i>fig.1: Similarities between Tamil (தமிழ்) and Korean (한글), the word "Appa" means Dad.</i>
 
 
 <b>Phonological Affinities: Exploring Shared Features</b>
