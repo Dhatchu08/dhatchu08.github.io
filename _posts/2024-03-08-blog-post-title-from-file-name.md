@@ -1,6 +1,6 @@
 # The linguistic affinities and divergences between the phonetic systems of Korean and Dravidian languages
 
-This article delves into the linguistic affinities and divergences between the phonetic systems of Korean and Dravidian languages, drawing insights from Chapter 1 of "A Comparative Grammar Of The Korean Language and the Dravidian Languages of India" by Homer B. Hulbert. In this seminal work, Hulbert explores the intricate parallels and distinctions that exist between these two language families, shedding light on their historical connections and typological characteristics. By examining phonemic contrasts, phonotactic patterns, and other phonological features, Hulbert offers a comprehensive analysis that enriches our understanding of linguistic diversity and evolution. Through this exploration, we aim to uncover the shared linguistic heritage and unique traits that define both Korean and Dravidian languages, contributing to a deeper appreciation of their rich cultural and linguistic significance.
+This article delves into the linguistic affinities and divergences between the phonetic systems of Korean and Dravidian languages, drawing insights from Chapter 1 of < a href "https://dp.la/item/3a6ae0cef1c61427b2ee12150cb30ad1">"A Comparative Grammar Of The Korean Language and the Dravidian Languages of India" by Homer B. Hulbert</a>. In this seminal work, Hulbert explores the intricate parallels and distinctions that exist between these two language families, shedding light on their historical connections and typological characteristics. By examining phonemic contrasts, phonotactic patterns, and other phonological features, Hulbert offers a comprehensive analysis that enriches our understanding of linguistic diversity and evolution. Through this exploration, we aim to uncover the shared linguistic heritage and unique traits that define both Korean and Dravidian languages, contributing to a deeper appreciation of their rich cultural and linguistic significance.
 
 ![아빠](https://github.com/Dhatchu08/dhatchu08.github.io/assets/67735359/7dc02933-214c-4466-87d3-f6ddb71eb6d5)
 
@@ -17,7 +17,7 @@ The linguistic affinities and divergences between the phonetic systems of Korean
 
 
 
-One prominent affinity between Korean and Dravidian languages lies in their phonological inventories. Both language families exhibit rich systems of phonemic contrasts, characterized by a diverse array of consonants and vowels. For instance, Korean and Dravidian languages such as Tamil and Telugu feature a similar set of phonemic contrasts, including distinctions between voiced and voiceless stops, aspirated and unaspirated consonants, and tense and lax vowels. This shared phonological complexity suggests a deep-rooted linguistic affinity between the two families.
+One prominent affinity between <a href="https://en.wikipedia.org/wiki/Korean_language">Korean</a> and Dravidian languages lies in their phonological inventories. Both language families exhibit rich systems of phonemic contrasts, characterized by a diverse array of consonants and vowels. For instance, Korean and Dravidian languages such as <a href="https://en.wikipedia.org/wiki/Tamil_language">Tamil</a> and Telugu feature a similar set of phonemic contrasts, including distinctions between voiced and voiceless stops, aspirated and unaspirated consonants, and tense and lax vowels. This shared phonological complexity suggests a deep-rooted linguistic affinity between the two families.
 
 
 
@@ -63,7 +63,4 @@ In conclusion, while Korean and Dravidian languages share certain linguistic aff
 
 
 
-View A Comparative Grammar Of The Korean Language and the Dravidian Languages of India
-
-by Hulbert, Homer B. (Homer Bezaleel), 1863-1949
-
+<a href="https://archive.org/details/AComparativeGrammarOfTheKoreanLang/page/n51/mode/2up" >View A Comparative Grammar Of The Korean Language and the Dravidian Languages of India by Hulbert, Homer B. (Homer Bezaleel), 1863-1949</a>
