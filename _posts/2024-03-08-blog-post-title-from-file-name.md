@@ -1,18 +1,19 @@
-##The linguistic affinities and divergences between the phonetic systems of Korean and Dravidian languages
+# The linguistic affinities and divergences between the phonetic systems of Korean and Dravidian languages
 
 This article delves into the linguistic affinities and divergences between the phonetic systems of Korean and Dravidian languages, drawing insights from Chapter 1 of "A Comparative Grammar Of The Korean Language and the Dravidian Languages of India" by Homer B. Hulbert. In this seminal work, Hulbert explores the intricate parallels and distinctions that exist between these two language families, shedding light on their historical connections and typological characteristics. By examining phonemic contrasts, phonotactic patterns, and other phonological features, Hulbert offers a comprehensive analysis that enriches our understanding of linguistic diversity and evolution. Through this exploration, we aim to uncover the shared linguistic heritage and unique traits that define both Korean and Dravidian languages, contributing to a deeper appreciation of their rich cultural and linguistic significance.
 
+![아빠](https://github.com/Dhatchu08/dhatchu08.github.io/assets/67735359/7dc02933-214c-4466-87d3-f6ddb71eb6d5)
 
 fig.1: Similarities between Tamil (தமிழ்) and Korean (한글), the word "Appa" means Dad.
 
 
-Phonological Affinities: Exploring Shared Features
+<b>Phonological Affinities: Exploring Shared Features</b>
 
 The linguistic affinities and divergences between the phonetic systems of Korean and Dravidian languages are a fascinating subject of inquiry. While both language families exhibit unique phonological features, some notable parallels and distinctions shed light on their historical and typological relationships.
 
 
 
-Rich Phonemic Contrasts: A Common Ground
+<b>Rich Phonemic Contrasts: A Common Ground</b>
 
 
 
@@ -20,7 +21,7 @@ One prominent affinity between Korean and Dravidian languages lies in their phon
 
 
 
-Syllable Structure Constraints: Parallel Patterns
+<b>Syllable Structure Constraints: Parallel Patterns</b>
 
 
 
@@ -28,7 +29,7 @@ Moreover, Korean and Dravidian languages demonstrate striking parallels in their
 
 
 
-Phonetic Divergences: Contrasting Features
+<b>Phonetic Divergences: Contrasting Features</b>
 
 
 
@@ -36,7 +37,7 @@ Despite these affinities, there are also significant divergences between the pho
 
 
 
-Complex Consonant Clusters: Varied Patterns
+<b>Complex Consonant Clusters: Varied Patterns</b>
 
 
 
@@ -49,9 +50,10 @@ Furthermore, while both Korean and Dravidian languages exhibit complex systems o
 
 
 
+![58d8a39887456f4c718b4574_da39a3ee5e6b4b0d3255bfef95601890afd80709-min](https://github.com/Dhatchu08/dhatchu08.github.io/assets/67735359/0a33249b-8d32-4d5c-8f29-16605d1b7bff)
 
 
-Concluding Remarks: Towards Deeper Insights
+<b>Concluding Remarks: Towards Deeper Insights</b>
 
 
 
